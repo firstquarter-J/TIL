@@ -1,4 +1,4 @@
-# TIL - 매일 작성하자!
+# TIL
 
 https://firstquarter.tistory.com/category/TIL
 
