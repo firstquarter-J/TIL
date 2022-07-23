@@ -1,6 +1,6 @@
 # TIL
 
-https://firstquarter.tistory.com/category/TIL
+https://firstquarter.tistory.com/category/Today%20I%20Lived
 
 `되고 싶은 개발자`
 
